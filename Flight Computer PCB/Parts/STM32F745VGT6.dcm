@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F745VGT6
+D ARM Microcontrollers - MCU High-performance and DSP with FPU, ARM Cortex-M7 MCU with 1 Mbyte Flash, 216 MHz CPU, Art Accelerator, L1 cache,SDRAM;
+K
+F https://www.st.com/resource/en/datasheet/stm32f745ie.pdf
+$ENDCMP
+#
+#End Doc Library

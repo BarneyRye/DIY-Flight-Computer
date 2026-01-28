@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KMR221GLFS")(type "KiCad")(uri "${KIPRJMOD}/Parts/01Symbols/KMR221GLFS.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C_16PIN_2MD__073_")(type "KiCad")(uri "${KIPRJMOD}/Parts/01Symbols/TYPE-C_16PIN_2MD__073_.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32F745VGT6")(type "KiCad")(uri "${KIPRJMOD}/Parts/01Symbols/STM32F745VGT6.kicad_sym")(options "")(descr ""))
+)
