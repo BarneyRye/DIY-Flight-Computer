@@ -3,4 +3,5 @@
   (lib (name "KMR221GLFS")(type "KiCad")(uri "${KIPRJMOD}/Parts/01Symbols/KMR221GLFS.kicad_sym")(options "")(descr ""))
   (lib (name "TYPE-C_16PIN_2MD__073_")(type "KiCad")(uri "${KIPRJMOD}/Parts/01Symbols/TYPE-C_16PIN_2MD__073_.kicad_sym")(options "")(descr ""))
   (lib (name "STM32F745VGT6")(type "KiCad")(uri "${KIPRJMOD}/Parts/01Symbols/STM32F745VGT6.kicad_sym")(options "")(descr ""))
+  (lib (name "SM12B-GHS-TB(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/Parts/01Symbols/SM12B-GHS-TB(LF)(SN).kicad_sym")(options "")(descr ""))
 )
